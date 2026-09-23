@@ -3,7 +3,7 @@
 <img width="1376" height="768" alt="a_sleek_ultra_crisp_panoramic_github_profile_banner_header_for_a_software" src="https://github.com/user-attachments/assets/65605eea-fced-40b6-b1ec-f7b341eef5e1" />
 
 <!--
-**iDanorever/iDanorever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iDanorever/iDanorever** is a ✨ _special_ ✨ repository because its `me` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
