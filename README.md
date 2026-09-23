@@ -2,6 +2,7 @@
 <h1 align  = "center" >Hola me llamo Daniel 👋 </h1>
 <img width="1376" height="768" alt="a_sleek_ultra_crisp_panoramic_github_profile_banner_header_for_a_software" src="https://github.com/user-attachments/assets/65605eea-fced-40b6-b1ec-f7b341eef5e1" />
 <h2>Hola soy Daniel Marca Sierra soy un programador entusiasta y perseverante en aprender cosas nuevas a medida de mi vida</h2>
+<a> programando y creciendo </a>
 <!--
 **iDanorever/iDanorever** is a ✨ _special_ ✨ repository because its `me` (this file) appears on your GitHub profile.
 
