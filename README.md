@@ -1,7 +1,8 @@
 
 <div align = "center" ></div>
 <h1 align  = "center" >Hola me llamo Daniel 👋 </h1>
-<<img width="736" height="736" alt="descargar (14)" src="https://github.com/user-attachments/assets/6af01ae4-adf7-4f29-a924-df02b3330962" />
+<img width="1919" height="820" alt="ChatGPT Image 24 sept 2026, 08_42_07" src="https://github.com/user-attachments/assets/1b749433-1b7b-4655-b9b4-01d8c02f102b" />
+
 <h2>Hola soy Daniel Marca Sierra soy un programador entusiasta y perseverante en aprender cosas nuevas a medida de mi vida</h2>
 <h3> programando y creciendo </h3>
 <!--
