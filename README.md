@@ -24,7 +24,7 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanorever&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanorever&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanorever&layout=compact&theme=radical&hide_border=true)
 
