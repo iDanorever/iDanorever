@@ -1,7 +1,10 @@
+<div align="center">
 
-<div align = "center" ></div>
-<h1 align  = "center" >Hola me llamo Daniel 👋 </h1>
-<img width="1919" height="820" alt="ChatGPT Image 24 sept 2026, 08_42_07" src="https://github.com/user-attachments/assets/1b749433-1b7b-4655-b9b4-01d8c02f102b" />
+# Hola me llamo Daniel 👋
+
+<img src="https://github.com/user-attachments/assets/1b749433-1b7b-4655-b9b4-01d8c02f102b" alt="Banner iDanorever" width="100%" />
+
+</div>
 
 Estudiante de Desarrollo de Software enfocado en construir soluciones backend y web limpias, escalables y eficientes. Apasionado por las buenas prácticas de programación, el diseño de arquitecturas robustas y la resolución de problemas mediante código estructurado.
 
@@ -20,17 +23,18 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ---
 
-
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDanorever&theme=radical" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDanorever&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDanorever&theme=radical" alt="GitHub Stats Card" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDanorever&theme=radical" alt="Top Languages Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDanorever&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDanorever&theme=tokyonight" alt="Top Languages Card" width="48%" />
 </p>
+
+---
 
 ### 📫 ¿Cómo conectar conmigo?
 * **GitHub Repos:** ¡Explora mis repositorios fijados (*Pinned*) más abajo para ver código fuente y proyectos reales![cite: 1]
