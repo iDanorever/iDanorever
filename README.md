@@ -29,7 +29,7 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanorever&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
----
+
 
 ### 📫 ¿Cómo conectar conmigo?
 * **GitHub Repos:** ¡Explora mis repositorios fijados (*Pinned*) más abajo para ver código fuente y proyectos reales![cite: 1]
