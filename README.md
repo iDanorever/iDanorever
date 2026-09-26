@@ -22,13 +22,15 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ### 📊 Estadísticas de GitHub
 
-### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iDanorever&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanorever&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanorever&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanorever&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 ¿Cómo conectar conmigo?
-* **GitHub Repos:** ¡Explora mis repositorios fijados (*Pinned*) más abajo para ver código fuente y proyectos reales!
+* **GitHub Repos:** ¡Explora mis repositorios fijados (*Pinned*) más abajo para ver código fuente y proyectos reales![cite: 1]
