@@ -24,15 +24,12 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDanorever&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDanorever&theme=radical" alt="GitHub Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDanorever&theme=radical" alt="GitHub Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDanorever&theme=radical" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDanorever&theme=radical" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDanorever&theme=radical" alt="Top Languages Card" width="48%" />
 </p>
 
 ### 📫 ¿Cómo conectar conmigo?
