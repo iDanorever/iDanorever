@@ -40,5 +40,5 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ### Contacto
 * **Repositorios:** Explora los proyectos fijados en la parte inferior para revisar código fuente y lógica de desarrollo[cite: 1].
-* **LinkedIn:** [Perfil profesional en LinkedIn](https://www.linkedin.com/in/damiel-marca-3826435/)
+* **LinkedIn:** [Perfil profesional en LinkedIn]([https://www.linkedin.com/in/damiel-marca-ba3826435/])
 * **Correo:** danolex654321@gmail.com
