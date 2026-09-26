@@ -23,11 +23,7 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iDanorever&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanorever&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=iDanorever&color=00f2fe&style=flat-square" alt="Profile Views" />
 </p>
 
 
