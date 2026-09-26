@@ -4,6 +4,7 @@
 ### Software Developer | Backend & Architecture
 
 <!-- Si tienes un mini video o gif animado creado por ti, puedes colocarlo aquí abajo -->
+<img src="https://github.com/user-attachments/assets/1b749433-1b7b-4655-b9b4-01d8c02f102b" alt="Banner iDanorever" width="100%" />
 <!-- <img src="tu-animacion.gif" alt="Animation Demo" width="100%" /> -->
 
 </div>
