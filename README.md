@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hola me llamo Daniel 👋
+# Daniel Marca
+### Software Developer | Backend & Architecture
 
-<img src="https://github.com/user-attachments/assets/1b749433-1b7b-4655-b9b4-01d8c02f102b" alt="Banner iDanorever" width="100%" />
+<!-- Si tienes un mini video o gif animado creado por ti, puedes colocarlo aquí abajo -->
+<!-- <img src="tu-animacion.gif" alt="Animation Demo" width="100%" /> -->
 
 </div>
 
@@ -12,12 +14,12 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ### 💻 Stack Tecnológico & Dominios
 
-* **Lo que domino con mayor soltura:**
+* **Dominio principal:**
   * **Lenguajes:** JavaScript, PHP, SQL (MySQL / PostgreSQL)
   * **Backend & Servidores:** Node.js, Express, Java (Spring Boot)
   * **Arquitectura & Patrones:** Arquitectura N-Tier, Patrón Singleton, Consultas LINQ, Interfaces WPF
 
-* **Herramientas de desarrollo y ecosistema:**
+* **Ecosistema y Herramientas:**
   * **Control de versiones & Despliegue:** Git, GitHub, Vercel
   * **Metodologías & Pruebas:** Scrum, Extreme Programming (XP), automatización básica con Appium
 
@@ -36,5 +38,7 @@ Estudiante de Desarrollo de Software enfocado en construir soluciones backend y 
 
 ---
 
-### 📫 ¿Cómo conectar conmigo?
-* **GitHub Repos:** ¡Explora mis repositorios fijados (*Pinned*) más abajo para ver código fuente y proyectos reales![cite: 1]
+### Contacto
+* **Repositorios:** Explora los proyectos fijados en la parte inferior para revisar código fuente y lógica de desarrollo[cite: 1].
+* **LinkedIn:** [Perfil profesional en LinkedIn](https://www.linkedin.com/in/damiel-marca-3826435/)
+* **Correo:** danolex654321@gmail.com
